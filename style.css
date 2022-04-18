@@ -4,12 +4,17 @@ body {
     font-size: 18px;
     letter-spacing: 2px;
     word-spacing: 2px;
-    background-color: rgb(24, 183, 204);
+    /* background-color: rgb(24, 183, 204); */
     font-weight: normal;
     text-decoration: none;
     font-style: normal;
     font-variant: normal;
     text-transform: none;
+    }
+    #cityPic {
+        width: 100%;
+        height: auto;
+
     }
     .header {
         height: 150px;
